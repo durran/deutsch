@@ -1,32 +1,130 @@
 (English -> Deutsch) Mental Case 2 archive.
 
-Format
-======
-
 Nouns
-=====
+-----
+
+```
+Front:
+German
 article word (singular)
 article word (plural)
 article word (genitive)
 
+Back:
+English word
+```
+
+Example
+
+```
+das Schlachthaus
+die Schlachthäuser
+des Schachthases
+
+abattior/slaughterhouse
+```
+
 Verbs
-=====
+-----
+
+```
+Front:
 infinitive + case
-participle
+modal + participle
 past 1st person singular
+imperative
+
+Back:
+English imperative
+```
+
+Example
+
+```
+beschimpfen + akk
+
+(haben + beschimpft)
+(beschimpfte)
+(beschimpfe)
+
+To insult
+```
 
 Adjectives
-==========
-word
+----------
+
+```
+Front:
+German word
+
+Back:
+English word
+```
 
 Adverbs
-=======
-word
+-------
+
+```
+Front:
+German word
+
+Back:
+English word
+```
+
+Conjunctions
+------------
+
+```
+Front:
+German word (subordinating or not)
+
+Back:
+English word
+```
+
+Example
+
+```
+obwohl (sub)
+
+although
+```
 
 Prepositions
 ============
-word + case
 
-Conjunctions
+```
+Front:
+German word + case
+
+Back:
+English word
+```
+
+Example
+
+```
+gegen + akk
+
+against
+```
+
+Phrases
 ============
-word + if subordinating
+
+```
+Front:
+German phrase
+
+Back:
+English equivalent
+```
+
+Example
+
+```
+Trunkenheit und ordnungswidriges Verhalten
+
+Drunk and disorderly
+```

@@ -1,5 +1,9 @@
 (English -> Deutsch) Mental Case 2 archive.
 
+To Import into Mental Case 2:
+
+`File -> Import... -> Select "deutsch.mentalcase2"`
+
 Nouns
 -----
 

@@ -19,7 +19,7 @@ Example
 ```
 das Schlachthaus
 die Schlachthäuser
-des Schachthases
+des Schachthauses
 
 abattior/slaughterhouse
 ```
